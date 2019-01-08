@@ -1,0 +1,36 @@
+@media (max-width: 768px) {
+
+  /**         Header         */
+
+  .wrapper header {
+    height: 70vh;
+  }
+  
+  header .header-frame {
+    border: transparent;
+  }
+  
+  header .offer {
+    margin: 32%;
+  }
+  
+  header h1 {
+    font-size: 44px;
+  }
+
+  .wrapper header p {
+    width: 396px;
+    font-size: 12px;
+  }
+
+  /**          Main          */
+
+  main .screenshots__bg-overlay {
+    height: 2150px;
+  }
+
+  main .screenshots__examples {
+    width: 750px;
+    grid-template-columns: 1fr;
+  }
+}

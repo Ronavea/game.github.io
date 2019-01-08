@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Alegreya-Regular;
+  src: url(..//fonts/Alegreya-Regular.ttf);
+}
+
+@font-face {
+  font-family: Cinzel-Regular;
+  src: url(..//fonts/Cinzel-Regular.ttf);
+}
+
+@font-face {
+  font-family: Cinzel-Bold;
+  src: url(..//fonts/Cinzel-Bold.ttf);
+}
+
+@font-face {
+  font-family: CinzelDecorative-Regular;
+  src: url(..//fonts/CinzelDecorative-Regular.ttf);
+}
+
+@font-face {
+  font-family: CinzelDecorative-Black;
+  src: url(..//fonts/CinzelDecorative-Black.ttf);
+}
