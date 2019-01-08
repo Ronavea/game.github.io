@@ -1,0 +1,83 @@
+@media (max-width: 1170px) {
+  .wrapper .container {
+    width: 920px;
+  }
+
+  /**         Header         */
+
+  .wrapper header {
+    height: 98vh;
+  }
+
+  header .header-frame {
+    height: 94%;
+  }
+
+  header .navbar-header {
+    padding: 0 20px 0 10px;
+  }
+
+  header nav ul {
+    grid-gap: 20px
+  }
+
+  header .offer {
+    margin: 25%;
+  }
+
+  header h1 {
+    font-size: 63px;
+  }
+
+  .wrapper header p {
+    width: 570px;
+    font-size: 14px;
+  }
+
+  header .play-now {
+    width: 230px;
+    height: 46px;
+    font-size: 18px;
+  }
+
+  /**          Main          */
+
+  main .about-game {
+    height: 450px;
+  }
+
+  main .about-game .container {
+    grid-template-columns: 30% auto 30%;
+  }
+
+  main h2 {
+    font-size: 20px;
+  }
+  
+  main .about-game p {
+    width: 400px;
+    font-size: 14px;
+  }
+
+  main .about-game__bg-image-2 {
+    margin-top: 150px;
+  }
+
+  main .screenshots__bg-overlay {
+    height: 700px;
+  }
+
+  main .screenshots__examples {
+    width: 750px;
+  }
+
+  main .screenshots__examples img {
+    width: 240px;
+  }
+
+  /**         Footer         */
+
+  footer .footer__bg-overlay {
+    height: 100px;
+  }
+}
